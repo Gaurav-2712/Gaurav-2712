@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 Currently Exploring with Web technologies.</p>
-
-###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Enthusiastic and detail-oriented Computer Science graduate passionate about creating efficient and user-friendly software solutions. Strong initiative, creativity, and ability to learn new technologies and systems.</p>
+- 🔭 I’m currently Exploring Web technologies.
+- 🌱 I’m currently learning React
+- 💬 Ask me about C/C++ , JAVA , JS , Web stack
+- 📫 How to reach me: [gauravvadhavana2712@gmail.com](mailto:gauravvadhavana2712@gmail.com)
 
 ###
 
