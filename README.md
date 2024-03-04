@@ -84,6 +84,9 @@ Here are some ideas to get you started:
   <a href="https://medium.com/@vadhavana1111" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
+  <a href="https://leetcode.com/Gaurav-2712/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="Gaurav-2712"  />
+  </a>
 </div>
 
 ###
