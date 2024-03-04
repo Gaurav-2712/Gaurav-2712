@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Gaurav-2712/Gaurav-2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
